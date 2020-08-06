@@ -10,6 +10,7 @@ class Moles {
 
     onMoveHanlder = () => {
         location.href = this.url;
+        console.log(1);
     }
 }
 
